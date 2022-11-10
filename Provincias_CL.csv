@@ -1,0 +1,57 @@
+﻿PROVINCIA_ID;PROVINCIA_NOMBRE;REGION_ID
+1;Iquique;1
+2;El Tamarugal;1
+3;Antogasta;2
+4;El Loa;2
+5;Tocopilla;2
+6;Copiapó;3
+7;Huasco;3
+8;Chañaral;3
+9;Choapa;4
+10;Elqui;4
+11;Limarí;4
+12;Isla de Pascua;5
+13;Los Andes;5
+14;Quillota;5
+15;Valparaíso;5
+16;Petorca;5
+17;San Antonio;5
+18;San Felipe de Aconcagua;5
+19;Marga Marga;5
+20;Cachapoal;6
+21;Cardenal Caro;6
+22;Colchagua;6
+23;Linares;7
+24;Curicó;7
+25;Cauquenes;7
+26;Talca;7
+27;Concepción;8
+28;Arauco;8
+29;Bio-Bío;8
+30;Malleco;9
+31;Cautín;9
+32;Chiloé;10
+33;Osorno;10
+34;Llanquihue;10
+35;Palena;10
+36;Aysén;11
+37;Coyhaique;11
+38;Capitán Prat;11
+39;General Carrera;11
+40;Tierra del Fuego;12
+41;Magallanes;12
+42;Última Esperanza;12
+43;Antártica Chilena;12
+44;Talagante;13
+45;Santiago;13
+46;Chacabuco;13
+47;Cordillera;13
+48;Maipo;13
+49;Melipilla;13
+50;Valdivia;14
+51;Ranco;14
+52;Arica;15
+53;Parinacota;15
+54;Itata;16
+55;Punilla;16
+56;Diguillín;16

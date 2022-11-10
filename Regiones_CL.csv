@@ -1,0 +1,17 @@
+﻿REGION_ID;REGION_NOMBRE;REGION_CODIGO;REGION_ISO3166
+1;Tarapacá;I;CL-TA
+2;Antofagasta;II;CL-AN
+3;Atacama;III;CL-AT
+4;Coquimbo;IV;CL-CO
+5;Valparaíso;V;CL-VS
+6;Libertador General Bernardo O’Higgins;VI;CL-LI
+7;Maule;VII;CL-ML
+8;Bio-Bío;VIII;CL-BI
+9;La Araucanía;IX;CL-AR
+10;Los Lagos;X;CL-LL
+11;Aysén del General Carlos Ibáñez del Campo;XI;CL-AI
+12;Magallanes y Antártica Chilena;XII;CL-MA
+13;Metropolitana de Santiago;RM;CL-RM
+14;Los Ríos;XIV;CL-LR
+15;Arica y Parinacota;XV;CL-AP
+16;Ñuble;XVI;CL-NB
